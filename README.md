@@ -1,5 +1,4 @@
-# Project 4: Supervised and Unsupervised Learning
-## Predicting Gay Friendly with Twitter Public API
+## Predicting "Something" with Twitter Public API
 
 Student: Paulo Henrique da Costa
 Locale: São Paulo - BR
